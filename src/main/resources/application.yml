@@ -1,0 +1,7 @@
+micronaut:
+  application:
+    name: authService
+netty:
+  default:
+    allocator:
+      max-order: 3
